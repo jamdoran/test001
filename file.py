@@ -6,6 +6,7 @@ I think
 '''
 
 print x
+print x
 
 
 
