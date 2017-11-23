@@ -5,8 +5,17 @@ at all
 I think
 '''
 
+y = ''' 
+This is another variable 
+with multiple lines of text
+'''
+
+
+
 print x
 print x
 print x
 print x
 print x
+
+print y
