@@ -7,7 +7,6 @@ I think
 
 print x
 print x
-
-
-
+print x
+print x
 print x
